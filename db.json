@@ -25,19 +25,8 @@
         },
         {
           "fullname": "Jane Doe",
-          "phonenumber": "212-555-1555",
-          "cart_items": [
-            {
-              "name": "Pluot",
-              "quantity": 100,
-              "price": "$1.00"
-            },
-            {
-              "name": "Apple",
-              "quantity": 10,
-              "price": "$3.25"
-            }
-          ]
+          "phonenumber": "212-555-1555"
+          
         }
       ]
     }

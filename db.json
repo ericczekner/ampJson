@@ -6,7 +6,7 @@
           "cart_items": [
             {
               "name": "Oranges",
-              "quantityLeft": 5,
+              "quantityLeft": 200,
               "price": "$2.00",
               "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/4b724be8-2683-4505-88aa-b63cef0c93eb.png"
             },

@@ -16,6 +16,13 @@
               "price": "$2.25",
               "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/1fc5e98b-42f5-4eb6-8985-38772c147ce2.png"
             }
+            ,
+            {
+              "name": "Bananas",
+              "quantityLeft": 500,
+              "price": "$4.25",
+              "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/1fc5e98b-42f5-4eb6-8985-38772c147ce2.png"
+            }
           ]
         }
       ]

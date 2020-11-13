@@ -5,7 +5,7 @@
           "cart_items": [
             {
               "name": "Orange",
-              "quantityLeft": 5,
+              "quantityLeft": 2,
               "price": "$2.00"
             },
             {

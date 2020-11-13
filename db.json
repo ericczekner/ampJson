@@ -10,7 +10,7 @@
             },
             {
               "name": "Apple",
-              "quantityLeft": 1,
+              "quantityLeft": 100,
               "price": "$2.25"
             }
           ]

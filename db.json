@@ -4,14 +4,14 @@
           "fullname": "Eric Czekner",
           "cart_items": [
             {
-              "name": "Pluot",
+              "name": "Orange",
               "quantityLeft": 5,
-              "price": "$1.00"
+              "price": "$2.00"
             },
             {
               "name": "Apple",
               "quantityLeft": 1,
-              "price": "$3.25"
+              "price": "$2.25"
             }
           ]
         }

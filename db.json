@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "English": "I am the text in english"
+      "Translation": "I am the text in english"
     },
     {
-      "French": "Je suis le texte en anglais"
+      "Translation": "Je suis le texte en anglais"
     }
   ]
 }

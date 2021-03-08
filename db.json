@@ -1,10 +1,12 @@
 {
   "items": [
     {
-      "animal": "english"
+      "language": "english",
+      "translation": "I am the text in english"
     },
     {
-      "animal": "french"
+      "language": "french",
+      "translation": "Je suis le texte en anglais"
     }
   ]
 }

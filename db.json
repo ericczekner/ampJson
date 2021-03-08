@@ -1,13 +1,10 @@
 {
   "items": [
     {
-      "animal": "dog Test"
+      "animal": "english"
     },
     {
-      "animal": "cat test"
-    },
-    {
-      "animal": "parrot test"
+      "animal": "french"
     }
   ]
 }

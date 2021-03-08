@@ -1,10 +1,14 @@
 {
-  "items": [
-    {
-      "language": "English"
-    },
-    {
-      "language": "French"
-    }
-  ]
+   "items":[
+      {
+         "English":{
+            "language":"English",
+            "translation":"I am the text in english"
+         },
+        "French":{
+            "language":"French",
+            "translation":"Je suis le texte en anglais"
+         }
+      }
+   ]
 }

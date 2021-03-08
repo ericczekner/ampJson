@@ -1,29 +1,13 @@
 {
-      "items": [
-        {
-          "fullname": "Eric Czekner",
-          "firstName": "Eric",
-          "cart_items": [
-            {
-              "name": "Oranges",
-              "quantityLeft": 200,
-              "price": "$2.00",
-              "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/4b724be8-2683-4505-88aa-b63cef0c93eb.png"
-            },
-            {
-              "name": "Apples",
-              "quantityLeft": 100,
-              "price": "$2.25",
-              "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/1fc5e98b-42f5-4eb6-8985-38772c147ce2.png"
-            }
-            ,
-            {
-              "name": "Bananas",
-              "quantityLeft": 500,
-              "price": "$4.25",
-              "imageSrc":"https://image.s7.sfmc-content.com/lib/fe2f11717d64047c7d1578/m/1/1fc5e98b-42f5-4eb6-8985-38772c147ce2.png"
-            }
-          ]
-        }
-      ]
+  "items": [
+    {
+      "animal": "dog"
+    },
+    {
+      "animal": "cat"
+    },
+    {
+      "animal": "parrot"
     }
+  ]
+}
